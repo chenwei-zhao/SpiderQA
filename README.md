@@ -14,3 +14,7 @@ A2: 机制如下图：加密逻辑在wasm中实现，js调用wasm暴露的加密
 - A3: 不支持分布式
 - A3: 学习曲线陡峭
 - A3: 存在Request丢失的情况（spider代码报错或者Request超出重试次数会丢失）
+
+## Q4: 开源验证码识别工具
+- A4: [ddddocr](https://github.com/sml2h3/ddddocr "ddddocr")
+- A4: [captcha-recognizer](https://github.com/chenwei-zhao/captcha-recognizer "captcha-recognizer")
