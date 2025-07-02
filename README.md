@@ -24,6 +24,10 @@ A2: 机制如下图：加密逻辑在wasm中实现，js调用wasm暴露的加密
 - A4: [ddddocr](https://github.com/sml2h3/ddddocr "ddddocr")
 - A4: [captcha-recognizer](https://github.com/chenwei-zhao/captcha-recognizer "captcha-recognizer")
 
-  ## Q5: Ocr工具
+## Q5: Ocr工具
   
 - A5 [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR "PaddleOCR") (文本定位识别)
+
+## Q6: 小程序反编译工具
+- A6: [wxapkg](https://github.com/wux1an/wxapkg)
+- A6: [e0e1-wx](https://github.com/eeeeeeeeee-code/e0e1-wx)
