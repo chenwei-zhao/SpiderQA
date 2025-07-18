@@ -31,3 +31,8 @@ A2: 机制如下图：加密逻辑在wasm中实现，js调用wasm暴露的加密
 ## Q6: 小程序反编译工具
 - A6: [wxapkg](https://github.com/wux1an/wxapkg)
 - A6: [e0e1-wx](https://github.com/eeeeeeeeee-code/e0e1-wx)
+
+## Q7: 标注工具
+
+labelme
+[X-AnyLabeling](https://github.com/CVHub520/X-AnyLabeling/blob/main/docs/zh_cn/get_started.md)
